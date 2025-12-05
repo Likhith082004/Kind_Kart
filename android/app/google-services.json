@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362784193588",
+    "project_id": "kind-kart-5454",
+    "storage_bucket": "kind-kart-5454.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362784193588:android:70d4140a696b46d8ab5e61",
+        "android_client_info": {
+          "package_name": "com.example.kind_kart_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz1lNWFXJk1IO3CiZ8mUUMMtycmfa5VJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
